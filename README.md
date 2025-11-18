@@ -7,8 +7,9 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hagar-shaheen/)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahagarshaheen2004@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hagar-shaheen/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahagarshaheen2004@gmail.com)
+
 
 ## 💻 Tech Stack
 
@@ -69,6 +70,23 @@ Organization & Productivity
 <p>
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?logo=Trello&logoColor=white" />
+</p>
+
+## 🎓 Certificates
+
+<p>
+<a href="https://www.coursera.org/account/accomplishments/certificate/XXXXX" target="_blank">
+  <img src="https://img.shields.io/badge/Coursera-ML%20with%20Python-blue?logo=coursera&logoColor=white" />
+</a>
+<a href="https://www.yourcertificateurl.com" target="_blank">
+  <img src="https://img.shields.io/badge/ITI-Summer%20Training-red?logo=education&logoColor=white" />
+</a>
+<a href="https://www.meta.com/certificate" target="_blank">
+  <img src="https://img.shields.io/badge/Meta-Frontend%20Developer-blueviolet?logo=meta&logoColor=white" />
+</a>
+<a href="https://www.ibm.com/certificate" target="_blank">
+  <img src="https://img.shields.io/badge/IBM-Data%20Science-blue?logo=ibm&logoColor=white" />
+</a>
 </p>
 
 
