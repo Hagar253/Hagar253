@@ -1,4 +1,5 @@
-## About Me:
+## 🌻 About Me:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8537B8&width=435&lines=Hello+there!+I'm+Hagar+Tarek)](https://git.io/typing-svg)
 - AI graduate with a strong interest in both AI and frontend development<br/>
 - Ex frontend developer in the IEEE Computer Society Web Team<br/>
 - Experience in task organization and communication from previous HR roles<br/>
@@ -22,12 +23,9 @@
 </p>
 
 
-
-
-
 ## 💻 Tech Stack
 
-Software Development  
+**Software Development**  
 <p>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white" />
@@ -53,7 +51,7 @@ Software Development
 
 ---
 
-Data Science & AI  
+**Data Science & AI**  
 <p>
 <img src="https://img.shields.io/badge/python-3670A0.svg?logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/r-%23276DC3.svg?logo=r&logoColor=white" />
@@ -72,7 +70,7 @@ Data Science & AI
 
 ---
 
-Design Tools  
+**Design Tools**  
 <p>
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white" />
@@ -80,7 +78,7 @@ Design Tools
 
 ---
 
-Organization & Productivity  
+**Organization & Productivity**  
 <p>
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?logo=Trello&logoColor=white" />
