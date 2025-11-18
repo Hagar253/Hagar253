@@ -1,17 +1,21 @@
 # 💫 About Me:
-🎓 AI graduate with a strong interest in both AI and frontend development<br><br>💻 Ex frontend developer in the IEEE Computer Society Web Team<br><br>🗂️ Experience in task organization and communication from previous HR roles<br><br>🚀 Open to opportunities in AI or Frontend (internship or entry-level)<br><br>📚 Always learning and working on improving my technical skills
+🎓 AI graduate with a strong interest in both AI and frontend development<br><br>
+💻 Ex frontend developer in the IEEE Computer Society Web Team<br><br>
+🗂️ Experience in task organization and communication from previous HR roles<br><br>
+🚀 Open to opportunities in AI or Frontend (internship or entry-level)<br><br>
+📚 Always learning and working on improving my technical skills
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hagar-shaheen/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahagarshaheen2004@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hagar-shaheen/)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahagarshaheen2004@gmail.com) 
 
 # 💻 Tech Stack
-
-<div align="center">
 
 ## 🧑‍💻 Software Development  
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white" />
 
@@ -59,16 +63,4 @@
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?logo=Trello&logoColor=white" />
 
----
 
-## 🔧 Other Tools  
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
-
-</div>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hagar253&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hagar253&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hagar253&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
