@@ -1,8 +1,8 @@
 # 💫 About Me:
-🎓 AI graduate with a strong interest in both AI and frontend development<br><br>
-💻 Ex frontend developer in the IEEE Computer Society Web Team<br><br>
-🗂️ Experience in task organization and communication from previous HR roles<br><br>
-🚀 Open to opportunities in AI or Frontend (internship or entry-level)<br><br>
+🎓 AI graduate with a strong interest in both AI and frontend development<br/>
+💻 Ex frontend developer in the IEEE Computer Society Web Team<br/>
+🗂️ Experience in task organization and communication from previous HR roles<br/>
+🚀 Open to opportunities in AI or Frontend (internship or entry-level)<br/>
 📚 Always learning and working on improving my technical skills
 
 
