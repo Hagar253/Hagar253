@@ -74,13 +74,44 @@ Organization & Productivity
 
 ## 🎓 Certificates
 
-### Coursera
-[![Neural Networks](https://img.shields.io/badge/Neural_Networks-Coursera-blue?style=for-the-badge)](https://coursera.org/share/fb3e96e526ccb3edce957b82d865c0dc)  
-[![Improving Deep NN](https://img.shields.io/badge/Improving_Deep_NN-Coursera-blue?style=for-the-badge)](https://coursera.org/share/fb4d32d2135d72398868a639116bb23a)  
-[![Structuring ML Projects](https://img.shields.io/badge/Structuring_ML_Projects-Coursera-blue?style=for-the-badge)](https://coursera.org/share/86c3f6150f5b3fbbe75c92c11de5669b)  
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-### ITI
-[![ITI Certificates](https://img.shields.io/badge/ITI-Training-green?style=for-the-badge)](https://drive.google.com/drive/folders/1M6bzo9A4zeiGa0gdYKVh2sqPPbBLLmIE?usp=sharing)  
+  <!-- Coursera Certificates -->
+  <a href="https://coursera.org/share/fb3e96e526ccb3edce957b82d865c0dc" target="_blank" style="text-decoration: none;">
+    <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 250px; text-align: center; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Coursera-Logo.png" alt="Coursera" width="60"/>
+      <h4 style="margin-top: 10px; color: #2a2a2a;">Neural Networks and Deep Learning</h4>
+    </div>
+  </a>
 
-### MaharaTech
-[![MaharaTech Certificates](https://img.shields.io/badge/MaharaTech-Certificates-orange?style=for-the-badge)](https://drive.google.com/drive/folders/1oGdcdMC6todM6r1K)
+  <a href="https://coursera.org/share/fb4d32d2135d72398868a639116bb23a" target="_blank" style="text-decoration: none;">
+    <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 250px; text-align: center; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Coursera-Logo.png" alt="Coursera" width="60"/>
+      <h4 style="margin-top: 10px; color: #2a2a2a;">Improving Deep Neural Networks</h4>
+    </div>
+  </a>
+
+  <a href="https://coursera.org/share/86c3f6150f5b3fbbe75c92c11de5669b" target="_blank" style="text-decoration: none;">
+    <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 250px; text-align: center; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Coursera-Logo.png" alt="Coursera" width="60"/>
+      <h4 style="margin-top: 10px; color: #2a2a2a;">Structuring Machine Learning Projects</h4>
+    </div>
+  </a>
+
+  <!-- ITI Certificate -->
+  <a href="https://drive.google.com/drive/folders/1M6bzo9A4zeiGa0gdYKVh2sqPPbBLLmIE?usp=sharing" target="_blank" style="text-decoration: none;">
+    <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 250px; text-align: center; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/ITI_Egypt_logo.png" alt="ITI" width="60"/>
+      <h4 style="margin-top: 10px; color: #2a2a2a;">ITI Training Certificates</h4>
+    </div>
+  </a>
+
+  <!-- MaharaTech Certificate -->
+  <a href="https://drive.google.com/drive/folders/1oGdcdMC6todM6r1KzcqjfvDh3e0rCi8h?usp=sharing" target="_blank" style="text-decoration: none;">
+    <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 250px; text-align: center; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Maharatech_logo.png" alt="MaharaTech" width="60"/>
+      <h4 style="margin-top: 10px; color: #2a2a2a;">MaharaTech Certificates</h4>
+    </div>
+  </a>
+
+</div>
