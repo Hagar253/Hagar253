@@ -7,9 +7,18 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hagar-shaheen/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahagarshaheen2004@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/ahagarshaheen2004/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/hagar-shaheen/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  </a>
+  <a href="mailto:ahagarshaheen2004@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/ahagarshaheen2004/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" width="40" />
+  </a>
+</p>
+
 
 
 
