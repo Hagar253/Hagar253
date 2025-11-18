@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8537B8&width=435&lines=Hello+there!+I'm+Hagar+Tarek.)](https://git.io/typing-svg)
+
 <img src="https://github.com/Hagar253/Hagar253/blob/main/my_octocat.png" alt="My Custom Octocat" width="180" />
 
 ## 🌻 About Me:
