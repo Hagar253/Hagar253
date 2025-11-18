@@ -1,6 +1,6 @@
 # Welcome to my Profile!
 
-![My Custom Octocat](https://github.com/Hagar253/Hagar253/blob/main/my_octocat.png)
+<img src="https://github.com/Hagar253/Hagar253/blob/main/my_octocat.png" alt="My Custom Octocat" width="180" />
 
 ## About Me...
 ## 🌻 About Me:
