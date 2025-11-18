@@ -1,6 +1,8 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8537B8&width=435&lines=Hello+there!+I'm+Hagar+Tarek.)](https://git.io/typing-svg)
 
-<img src="https://github.com/Hagar253/Hagar253/blob/main/my_octocat.png" alt="My Custom Octocat" width="180" />
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif"  />
+</div>
 
 ## 🌻 About Me:
 - AI graduate with a strong interest in both AI and frontend development<br/>
