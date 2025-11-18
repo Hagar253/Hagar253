@@ -88,3 +88,10 @@
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?logo=Trello&logoColor=white" />
 </p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hagar253/Hagar253/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hagar253/Hagar253/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hagar253/Hagar253/output/pacman-contribution-graph.svg">
+</picture>
