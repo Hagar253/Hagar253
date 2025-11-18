@@ -79,7 +79,7 @@ Organization & Productivity
   <!-- Coursera Certificates -->
   <a href="https://coursera.org/share/fb3e96e526ccb3edce957b82d865c0dc" target="_blank" style="text-decoration: none;">
     <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 250px; text-align: center; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Coursera-Logo.png" alt="Coursera" width="60"/>
+      <img src="https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/assets/images/coursera.png" alt="Coursera" width="60"/>
       <h4 style="margin-top: 10px; color: #2a2a2a;">Neural Networks and Deep Learning</h4>
     </div>
   </a>
