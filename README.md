@@ -13,6 +13,7 @@
 # 💻 Tech Stack
 
 ## 🧑‍💻 Software Development  
+<p>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
@@ -33,10 +34,12 @@
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white" />
+</p>
 
 ---
 
 ## 📊 Data Science & AI  
+<p>
 <img src="https://img.shields.io/badge/python-3670A0.svg?logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/r-%23276DC3.svg?logo=r&logoColor=white" />
 
@@ -50,17 +53,22 @@
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white" />
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" />
 <img src="https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white" />
+</p>
 
 ---
 
 ## 🎨 Design Tools  
+<p>
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white" />
+</p>
 
 ---
 
 ## 🗂️ Organization & Productivity  
+<p>
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?logo=Trello&logoColor=white" />
+</p>
 
 
