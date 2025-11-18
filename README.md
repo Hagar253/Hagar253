@@ -7,10 +7,7 @@
   </a>
 </p>
 
-<img src="https://github.com/Hagar253/Hagar253/blob/main/my_octocat.png" alt="My Custom Octocat" width="180" />
-
 ## 🌻 About Me:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8537B8&width=435&lines=Hello+there!+I'm+Hagar+Tarek)](https://git.io/typing-svg)
 - AI graduate with a strong interest in both AI and frontend development<br/>
 - Ex frontend developer in the IEEE Computer Society Web Team<br/>
 - Experience in task organization and communication from previous HR roles<br/>
