@@ -89,6 +89,7 @@
 <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?logo=Trello&logoColor=white" />
 </p>
 
+## 📊 GitHub Stats:
 
 <div align="center">
   <img src="my_octocat.png" alt="My Custom Octocat" width="180" />
