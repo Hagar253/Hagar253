@@ -9,6 +9,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hagar-shaheen/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahagarshaheen2004@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/ahagarshaheen2004/)
+
 
 
 ## 💻 Tech Stack
