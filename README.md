@@ -1,19 +1,6 @@
-# Welcome to my Profile!
-<p align="left">
-  <img 
-    src="https://github.com/Hagar253/Hagar253/blob/main/my_octocat.png" 
-    alt="My Custom Octocat" 
-    width="180" 
-    style="padding-right: 25px; vertical-align: middle;" 
-  />
-  
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8537B8&width=435&lines=Hello+there!+I'm+Hagar+Tarek" 
-      alt="Typing SVG" 
-    />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8537B8&width=435&lines=Hello+there!+I'm+Hagar+Tarek)](https://git.io/typing-svg)       
+
+<img src="https://github.com/Hagar253/Hagar253/blob/main/my_octocat.png" alt="My Custom Octocat" width="180" />
 
 ## 🌻 About Me:
 - AI graduate with a strong interest in both AI and frontend development<br/>
