@@ -74,39 +74,76 @@ Organization & Productivity
 
 ## 🎓 Certificates
 
+### Coursera
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
 
-<a href="https://www.coursera.org/account/accomplishments/certificate/XXXXX" target="_blank" style="text-decoration: none;">
+<a href="COURSE1_URL" target="_blank" style="text-decoration: none;">
   <div align="center" style="border: 1px solid #ddd; border-radius: 12px; padding: 15px; width: 200px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Coursera_logo_2013.svg" width="50" />
-    <p style="font-size: 14px; font-weight: 600; margin: 8px 0 4px 0; color: #000;">Machine Learning with Python</p>
+    <p style="font-size: 14px; font-weight: 600; margin: 8px 0 4px 0; color: #000;">Certificate Name 1</p>
     <p style="font-size: 12px; color: #555; margin:0;">Coursera</p>
   </div>
 </a>
 
-<a href="https://www.yourcertificateurl.com" target="_blank" style="text-decoration: none;">
+<a href="COURSE2_URL" target="_blank" style="text-decoration: none;">
+  <div align="center" style="border: 1px solid #ddd; border-radius: 12px; padding: 15px; width: 200px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Coursera_logo_2013.svg" width="50" />
+    <p style="font-size: 14px; font-weight: 600; margin: 8px 0 4px 0; color: #000;">Certificate Name 2</p>
+    <p style="font-size: 12px; color: #555; margin:0;">Coursera</p>
+  </div>
+</a>
+
+<!-- Add more Coursera certificates here -->
+
+</div>
+
+---
+
+### ITI
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+
+<a href="ITI_CERT1_URL" target="_blank" style="text-decoration: none;">
   <div align="center" style="border: 1px solid #ddd; border-radius: 12px; padding: 15px; width: 200px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/ITI_Logo.png" width="50" />
-    <p style="font-size: 14px; font-weight: 600; margin: 8px 0 4px 0; color: #000;">Summer Training - Software Development</p>
+    <p style="font-size: 14px; font-weight: 600; margin: 8px 0 4px 0; color: #000;">Certificate Name 1</p>
     <p style="font-size: 12px; color: #555; margin:0;">ITI</p>
   </div>
 </a>
 
-<a href="https://www.meta.com/certificate" target="_blank" style="text-decoration: none;">
+<a href="ITI_CERT2_URL" target="_blank" style="text-decoration: none;">
   <div align="center" style="border: 1px solid #ddd; border-radius: 12px; padding: 15px; width: 200px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Meta_Platforms_Inc._logo.svg" width="50" />
-    <p style="font-size: 14px; font-weight: 600; margin: 8px 0 4px 0; color: #000;">Frontend Developer</p>
-    <p style="font-size: 12px; color: #555; margin:0;">Meta</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/ITI_Logo.png" width="50" />
+    <p style="font-size: 14px; font-weight: 600; margin: 8px 0 4px 0; color: #000;">Certificate Name 2</p>
+    <p style="font-size: 12px; color: #555; margin:0;">ITI</p>
   </div>
 </a>
 
-<a href="https://www.ibm.com/certificate" target="_blank" style="text-decoration: none;">
+<!-- Add more ITI certificates here -->
+
+</div>
+
+---
+
+### MaharaTech
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+
+<a href="MAHARATECH_CERT1_URL" target="_blank" style="text-decoration: none;">
   <div align="center" style="border: 1px solid #ddd; border-radius: 12px; padding: 15px; width: 200px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="50" />
-    <p style="font-size: 14px; font-weight: 600; margin: 8px 0 4px 0; color: #000;">Data Science Professional</p>
-    <p style="font-size: 12px; color: #555; margin:0;">IBM</p>
+    <img src="https://www.maharatech.gov.eg/assets/images/maharatech-logo.png" width="50" />
+    <p style="font-size: 14px; font-weight: 600; margin: 8px 0 4px 0; color: #000;">Certificate Name 1</p>
+    <p style="font-size: 12px; color: #555; margin:0;">MaharaTech</p>
   </div>
 </a>
+
+<a href="MAHARATECH_CERT2_URL" target="_blank" style="text-decoration: none;">
+  <div align="center" style="border: 1px solid #ddd; border-radius: 12px; padding: 15px; width: 200px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
+    <img src="https://www.maharatech.gov.eg/assets/images/maharatech-logo.png" width="50" />
+    <p style="font-size: 14px; font-weight: 600; margin: 8px 0 4px 0; color: #000;">Certificate Name 2</p>
+    <p style="font-size: 12px; color: #555; margin:0;">MaharaTech</p>
+  </div>
+</a>
+
+<!-- Add more MaharaTech certificates here -->
 
 </div>
 
