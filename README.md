@@ -74,19 +74,33 @@ Organization & Productivity
 
 ## 🎓 Certificates
 
-<p>
-<a href="https://www.coursera.org/account/accomplishments/certificate/XXXXX" target="_blank">
-  <img src="https://img.shields.io/badge/Coursera-ML%20with%20Python-blue?logo=coursera&logoColor=white" />
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+<a href="https://www.coursera.org/account/accomplishments/certificate/XXXXX" target="_blank" style="text-decoration: none;">
+  <div align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; width: 180px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Coursera_logo_2013.svg" width="50" />
+    <p style="font-size: 14px; color: #000;">Machine Learning with Python</p>
+    <p style="font-size: 12px; color: #555;">Coursera</p>
+  </div>
 </a>
-<a href="https://www.yourcertificateurl.com" target="_blank">
-  <img src="https://img.shields.io/badge/ITI-Summer%20Training-red?logo=education&logoColor=white" />
+
+<a href="https://www.yourcertificateurl.com" target="_blank" style="text-decoration: none;">
+  <div align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; width: 180px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/ITI_Logo.png" width="50" />
+    <p style="font-size: 14px; color: #000;">Summer Training - Software Development</p>
+    <p style="font-size: 12px; color: #555;">ITI</p>
+  </div>
 </a>
-<a href="https://www.meta.com/certificate" target="_blank">
-  <img src="https://img.shields.io/badge/Meta-Frontend%20Developer-blueviolet?logo=meta&logoColor=white" />
+
+<a href="https://www.meta.com/certificate" target="_blank" style="text-decoration: none;">
+  <div align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; width: 180px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Meta_Platforms_Inc._logo.svg" width="50" />
+    <p style="font-size: 14px; color: #000;">Frontend Developer</p>
+    <p style="font-size: 12px; color: #555;">Meta</p>
+  </div>
 </a>
-<a href="https://www.ibm.com/certificate" target="_blank">
-  <img src="https://img.shields.io/badge/IBM-Data%20Science-blue?logo=ibm&logoColor=white" />
-</a>
-</p>
+
+</div>
+
 
 
