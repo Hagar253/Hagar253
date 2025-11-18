@@ -13,7 +13,7 @@
   </a>
 
   <a href="mailto:ahagarshaheen2004@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" />
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" />
   </a>
 
   <a href="https://leetcode.com/u/ahagarshaheen2004/" target="_blank" style="text-decoration: none;">
