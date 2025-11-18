@@ -75,65 +75,12 @@ Organization & Productivity
 ## 🎓 Certificates
 
 ### Coursera
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
-
-<a href="https://coursera.org/share/fb3e96e526ccb3edce957b82d865c0dc" target="_blank" style="text-decoration: none;">
-  <div align="center" style="border: 1px solid #ddd; border-radius: 12px; padding: 15px; width: 220px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Coursera_logo_2013.svg" width="50" />
-    <p style="font-size: 14px; font-weight: 600; margin: 8px 0 4px 0; color: #000;">Neural Networks and Deep Learning</p>
-    <p style="font-size: 12px; color: #555; margin:0;">Coursera</p>
-  </div>
-</a>
-
-<a href="https://coursera.org/share/fb4d32d2135d72398868a639116bb23a" target="_blank" style="text-decoration: none;">
-  <div align="center" style="border: 1px solid #ddd; border-radius: 12px; padding: 15px; width: 220px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Coursera_logo_2013.svg" width="50" />
-    <p style="font-size: 14px; font-weight: 600; margin: 8px 0 4px 0; color: #000;">Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization</p>
-    <p style="font-size: 12px; color: #555; margin:0;">Coursera</p>
-  </div>
-</a>
-
-<a href="https://coursera.org/share/86c3f6150f5b3fbbe75c92c11de5669b" target="_blank" style="text-decoration: none;">
-  <div align="center" style="border: 1px solid #ddd; border-radius: 12px; padding: 15px; width: 220px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Coursera_logo_2013.svg" width="50" />
-    <p style="font-size: 14px; font-weight: 600; margin: 8px 0 4px 0; color: #000;">Structuring Machine Learning Projects</p>
-    <p style="font-size: 12px; color: #555; margin:0;">Coursera</p>
-  </div>
-</a>
-
-</div>
-
----
+[![Neural Networks](https://img.shields.io/badge/Neural_Networks-Coursera-blue?style=for-the-badge)](https://coursera.org/share/fb3e96e526ccb3edce957b82d865c0dc)  
+[![Improving Deep NN](https://img.shields.io/badge/Improving_Deep_NN-Coursera-blue?style=for-the-badge)](https://coursera.org/share/fb4d32d2135d72398868a639116bb23a)  
+[![Structuring ML Projects](https://img.shields.io/badge/Structuring_ML_Projects-Coursera-blue?style=for-the-badge)](https://coursera.org/share/86c3f6150f5b3fbbe75c92c11de5669b)  
 
 ### ITI
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
-
-<a href="https://drive.google.com/drive/folders/1M6bzo9A4zeiGa0gdYKVh2sqPPbBLLmIE?usp=sharing" target="_blank" style="text-decoration: none;">
-  <div align="center" style="border: 1px solid #ddd; border-radius: 12px; padding: 15px; width: 220px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/ITI_Logo.png" width="50" />
-    <p style="font-size: 14px; font-weight: 600; margin: 8px 0 4px 0; color: #000;">ITI Certificates Folder</p>
-    <p style="font-size: 12px; color: #555; margin:0;">ITI</p>
-  </div>
-</a>
-
-</div>
-
----
+[![ITI Certificates](https://img.shields.io/badge/ITI-Training-green?style=for-the-badge)](https://drive.google.com/drive/folders/1M6bzo9A4zeiGa0gdYKVh2sqPPbBLLmIE?usp=sharing)  
 
 ### MaharaTech
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
-
-<a href="https://drive.google.com/drive/folders/1oGdcdMC6todM6r1KzcqjfvDh3e0rCi8h?usp=sharing" target="_blank" style="text-decoration: none;">
-  <div align="center" style="border: 1px solid #ddd; border-radius: 12px; padding: 15px; width: 220px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
-    <img src="https://www.maharatech.gov.eg/assets/images/maharatech-logo.png" width="50" />
-    <p style="font-size: 14px; font-weight: 600; margin: 8px 0 4px 0; color: #000;">MaharaTech Certificates Folder</p>
-    <p style="font-size: 12px; color: #555; margin:0;">MaharaTech</p>
-  </div>
-</a>
-
-</div>
-
-
-
-
-
+[![MaharaTech Certificates](https://img.shields.io/badge/MaharaTech-Certificates-orange?style=for-the-badge)](https://drive.google.com/drive/folders/1oGdcdMC6todM6r1K)
