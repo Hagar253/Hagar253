@@ -39,13 +39,11 @@
 <img src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?logo=dart&logoColor=white" />
 
 <img src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white" />
 
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white" />
 </p>
@@ -55,7 +53,6 @@
 **Data Science & AI**  
 <p>
 <img src="https://img.shields.io/badge/python-3670A0.svg?logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/r-%23276DC3.svg?logo=r&logoColor=white" />
 
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white" />
@@ -63,7 +60,6 @@
 <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=white" />
 
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white" />
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" />
 <img src="https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white" />
