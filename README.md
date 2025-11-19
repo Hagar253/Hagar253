@@ -1,7 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFEA60&width=435&lines=Hello+there!+I'm+Hagar+Tarek.)](https://git.io/typing-svg)
 
 <div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif"  />
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
 </div>
 
 ## 🌻 About Me:
