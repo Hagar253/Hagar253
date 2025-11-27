@@ -23,8 +23,12 @@
   </a>
 
   <a href="https://www.codewars.com/users/Hagar253" target="_blank" style="text-decoration: none;">
-    <img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" width="40" />
-  </a>
+  <svg width="40" height="40" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="48" height="48" rx="8" fill="#AD2C27"/>
+    <path fill="#fff" d="M31.6 15.7l-2.9 2.9 2.9 2.9-2.1 2.1-2.9-2.9-2.9 2.9-2.1-2.1 2.9-2.9-2.9-2.9 2.1-2.1 2.9 2.9 2.9-2.9 2.1 2.1zM17.5 29.8l2.9-2.9-2.9-2.9 2.1-2.1 2.9 2.9 2.9-2.9 2.1 2.1-2.9 2.9 2.9 2.9-2.1 2.1-2.9-2.9-2.9 2.9-2.1-2.1z"/>
+  </svg>
+</a>
+
 </p>
 
 
