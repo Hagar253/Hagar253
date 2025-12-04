@@ -27,6 +27,12 @@
     <img src="https://raw.githubusercontent.com/Hagar253/Hagar253/main/icons8-codewars.svg" width="40" />
   </a>
 
+  ## 🧩 Coding Challenges
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFD700?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername)
+[![Codewars](https://img.shields.io/badge/Codewars-000000?style=for-the-badge&logo=codewars&logoColor=red)](https://www.codewars.com/users/yourusername)
+
+
 
 
 </p>
