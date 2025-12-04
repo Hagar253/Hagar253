@@ -18,19 +18,10 @@
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" />
   </a>
 
-  <a href="https://leetcode.com/u/ahagarshaheen2004/" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" width="40" />
-  </a>
-
-  
-  <a href="https://www.codewars.com/users/Hagar253" target="_blank">
-    <img src="https://raw.githubusercontent.com/Hagar253/Hagar253/main/icons8-codewars.svg" width="40" />
-  </a>
-
   ## 🧩 Coding Challenges
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFD700?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername)
-[![Codewars](https://img.shields.io/badge/Codewars-000000?style=for-the-badge&logo=codewars&logoColor=red)](https://www.codewars.com/users/yourusername)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFD700?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ahagarshaheen2004/)
+[![Codewars](https://img.shields.io/badge/Codewars-000000?style=for-the-badge&logo=codewars&logoColor=red)](https://www.codewars.com/users/Hagar253)
 
 
 
