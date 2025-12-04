@@ -53,7 +53,6 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white" />
 
-<img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white" />
 </p>
 
