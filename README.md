@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFEA60&width=435&lines=Hello+there!+I'm+Hagar+Tarek.)](https://git.io/typing-svg)
 
-## 🌻 About Me:
+## 🌻 About Me
 - AI graduate with a strong interest in both AI and frontend development<br/>
 - Ex frontend developer in the IEEE Computer Society Web Team<br/>
 - Experience in task organization and communication from previous HR roles<br/>
@@ -8,7 +8,7 @@
 - Always learning and working on improving my technical skills
 
 
-## 🌐 Socials:
+## 🌐 Socials
 <p align="left">
   <a href="https://www.linkedin.com/in/hagar-shaheen/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
@@ -38,6 +38,7 @@
 
 
 <h2><img src="https://github.com/user-attachments/assets/0cefad05-58a9-4aa0-a070-f75a0c9b0353" height="32px"> Tech Stack</h2>
+
 **Software Development** 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
