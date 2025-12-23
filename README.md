@@ -17,83 +17,89 @@
   <a href="mailto:ahagarshaheen2004@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" />
   </a>
+</p>
 
-  ## 🧩 Coding Challenges
+<h2><img src="https://github.com/user-attachments/assets/5b3cb883-6652-4525-a352-b4b9a3501e07" width = 35px height = 35px></a> Coding Challenges </h2>
+
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFD700?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ahagarshaheen2004/)
 [![Codewars](https://img.shields.io/badge/Codewars-000000?style=for-the-badge&logo=codewars&logoColor=red)](https://www.codewars.com/users/Hagar253)
 
-## 📊 LeetCode Stats
-
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=ahagarshaheen2004&theme=dark&show_icons=true)
-
-> Username: `ahagarshaheen2004`  
-> Email: `ahagarshaheen2004@gmail.com`
-
-</p>
-
-
-
-## 💻 Tech Stack
-
-**Software Development**  
+#### 📊 LeetCode Stats
 <p>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white" />
-
-<img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/dart-%230175C2.svg?logo=dart&logoColor=white" />
-
-<img src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white" />
-
-<img src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white" />
+    <a href="https://leetcode.com/u/ahagarshaheen2004/">
+        <img src="https://leetcard.jacoblin.cool/ahagarshaheen2004?theme=dark&ext=heatmap">
+    </a>
 </p>
 
----
+#### 📊 Codewars Stats
+
+![Codewars Badges](https://www.codewars.com/users/Hagar253/badges/large)
+
+
+<h2><img src="https://github.com/user-attachments/assets/0cefad05-58a9-4aa0-a070-f75a0c9b0353" height="32px"> Tech Stack</h2>
+**Software Development** 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
+  <img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" width="40" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" title="Redux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" width="40" title="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" title="Dart" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+  <img src="https://img.icons8.com/?size=100&id=62856&format=png&color=FFFFFF" width="40" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI" />
+</p>
 
 **Data Science & AI**  
 <p>
-<img src="https://img.shields.io/badge/python-3670A0.svg?logo=python&logoColor=ffdd54" />
-
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black" />
-<img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=white" />
-
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" />
-<img src="https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" title="Matplotlib" />
+  <img src="https://github.com/user-attachments/assets/102a7ca8-810d-4e8e-be5c-559dafac095d" width="40" title="Scipy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" title="Scikit-Learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" title="Keras" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" title="OpenCV" />
 </p>
-
----
 
 **Design Tools**  
 <p>
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" title="Canva" />
 </p>
-
----
 
 **Organization & Productivity**  
 <p>
-<img src="https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Trello-%23026AA7.svg?logo=Trello&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" title="Notion" />
+  <img src="https://github.com/user-attachments/assets/1f7815db-655c-4924-b12c-5bf12b8f6196" width="40" title="Trello" />
 </p>
 
+
+<h2> <img src="https://github.com/user-attachments/assets/b0f0a235-563d-41f2-95e9-0ebfb8e4ecbd" width = 35px height = 35px></a> GitHub Stats </h2>
+<p align="center">
+  <div align="center">
+    <a href="https://github.com/Hagar253"> 
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hagar253&theme=dracula" width="100%" /> </br></br>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hagar253&theme=dracula" width="31%" align="left"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hagar253&theme=dracula" width="31%" align="right" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hagar253&theme=dracula" width="31%" align="center" title="🦉 Night owl" />  
+  </div>
+</p>
+
+</br>
+    
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hagar253/Hagar253/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hagar253/Hagar253/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hagar253/Hagar253/output/pacman-contribution-graph.svg">
 </picture>
+
+
 
 
