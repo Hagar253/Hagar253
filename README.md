@@ -23,8 +23,12 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFD700?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ahagarshaheen2004/)
 [![Codewars](https://img.shields.io/badge/Codewars-000000?style=for-the-badge&logo=codewars&logoColor=red)](https://www.codewars.com/users/Hagar253)
 
+## 📊 LeetCode Stats
 
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=ahagarshaheen2004&theme=dark&show_icons=true)
 
+> Username: `ahagarshaheen2004`  
+> Email: `ahagarshaheen2004@gmail.com`
 
 </p>
 
