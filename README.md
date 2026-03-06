@@ -32,6 +32,9 @@
     </a>
 </p>
 
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=ahagarshaheen2004&animated=true&theme=nightowl" alt="LeetCode Badges" />
+
+
 #### 📊 Codewars Stats
 
 ![Codewars Badges](https://www.codewars.com/users/Hagar253/badges/large)
